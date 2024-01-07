@@ -1,2 +1,2 @@
-# Yulu---Hypothesis-Testing
+# Yulu
 Business cae Yulu - Hypothesis Testing
